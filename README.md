@@ -32,7 +32,7 @@ type ComparableStruct struct {
 }
 
 func (c ComparableStruct) CompareTo(other ComparableStruct) int {
-	return c.value
+	return c.value - other.value
 }
 
 element := ComparableStruct{2}
