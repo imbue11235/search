@@ -1,4 +1,4 @@
-module search
+module github.com/imbue11235/search
 
 go 1.18
 
