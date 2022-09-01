@@ -1,4 +1,4 @@
-# search [![Test Status](https://github.com/imbue11235/promware/workflows/Go/badge.svg)](https://github.com/imbue11235/promware/actions?query=workflow:Go) [![Go Reference](https://pkg.go.dev/badge/github.com/imbue11235/promware.svg)](https://pkg.go.dev/github.com/imbue11235/promware)
+# search [![Test Status](https://github.com/imbue11235/search/workflows/Go/badge.svg)](https://github.com/imbue11235/search/actions?query=workflow:Go) [![Go Reference](https://pkg.go.dev/badge/github.com/imbue11235/search.svg)](https://pkg.go.dev/github.com/imbue11235/search)
 
 > A generic simple binary search library to allow finding the index of any element in an ordered slice of comparable elements
 
