@@ -22,7 +22,7 @@ Search slices of primitive types like int, float etc.
 search.Slice([]int{1, 2, 3, 4, 5, 6}, 2) // => index: 1
 ```
 
-### Using [Comparable[T]](https://pkg.go.dev/github.com/imbue11235/search#Comparable)
+### Using [search.Comparable[T]](https://pkg.go.dev/github.com/imbue11235/search#Comparable)
 
 Search slices of custom structs
 
